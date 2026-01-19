@@ -2,7 +2,7 @@
 A script to calculate the interest
 
 #Formula
-I = P(1 + rt)
+I = P * r * t
 
 where:
 P = Principal amount
